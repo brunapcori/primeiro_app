@@ -62,3 +62,4 @@ if st.button("Calcular", type="primary", use_container_width=True):
             st.balloons()  # Animação de balões subindo na tela
             st.success("Cálculo realizado com sucesso!")
             st.metric(label="Resultado da Divisão", value=f"{resultado:.4f}")
+            # Feito
